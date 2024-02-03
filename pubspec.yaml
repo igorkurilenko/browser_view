@@ -1,0 +1,21 @@
+name: browser_view
+description: "A Flutter widget for organizing tabs as in a browser."
+version: 0.0.1
+homepage: https://github.com/igorkurilenko/animated_reorderable
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animated_reorderable: ^1.1.0
+  animations: ^2.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
